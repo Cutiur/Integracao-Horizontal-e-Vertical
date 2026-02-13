@@ -47,174 +47,98 @@ Enquanto a **Integração Vertical** fortalece o controle interno, a **Integraç
 
 ---
 
-# 📚 Resumo Aula 2  
-## Integração Vertical e Horizontal nas Empresas
+# 🏭 RESUMO DA AULA 2 — INTEGRAÇÃO EMPRESARIAL E INDUSTRIAL
 
 ---
 
-## 🔎 1. Contextualização
+## ⚙️ Contexto Geral
 
-A aula abordou os conceitos de **Integração Vertical** e **Integração Horizontal** nas empresas, analisando seus impactos estratégicos, operacionais e tecnológicos.
+Na **Aula 2**, foram aprofundados os conceitos de **Integração Vertical** e **Integração Horizontal**, tanto no contexto **empresarial** quanto **industrial**, destacando seus impactos estratégicos na competitividade, na tomada de decisão e na transformação digital.
 
-A integração é fundamental para promover maior eficiência, competitividade e melhoria na tomada de decisão, tanto no nível industrial quanto empresarial.
+A integração foi apresentada como elemento fundamental para conectar **operações, sistemas e gestão**, promovendo maior eficiência organizacional.
 
 ---
 
-## 🔗 2. Integração Vertical
+## 🔩 Integração Vertical
 
-### 📌 Conceito (Industrial)
-Conecta **níveis hierárquicos diferentes** da organização:
+A **Integração Vertical** consiste na decisão estratégica de controlar diferentes etapas da cadeia de valor — da matéria-prima até a venda ao consumidor final.
 
-- Chão de fábrica (sensores, CLPs)  
-- Sistemas de controle (SCADA, MES)  
-- Sistemas de gestão (ERP)  
+### 📌 No contexto industrial:
+Conecta diferentes níveis hierárquicos:
+- Chão de fábrica (sensores, CLPs)
+- Sistemas de controle (SCADA, MES)
+- Sistemas de gestão (ERP)
 
-Permite que informações operacionais cheguem à gestão em tempo real.
+### 📌 No contexto empresarial:
+- Controle da matéria-prima
+- Produção própria
+- Logística interna
+- Distribuição e venda
 
-### 📌 Conceito (Empresarial)
-A empresa passa a controlar **múltiplas etapas da cadeia de valor**:
-
-> Matéria-prima → Produção → Distribuição → Venda
-
-### 🎯 Objetivos
-- Maior controle da cadeia produtiva  
-- Redução da dependência de terceiros  
-- Eficiência estratégica  
+### 🎯 Objetivos:
+- Maior controle estratégico  
+- Redução de dependências externas  
 - Melhor fluxo de informações  
 - Maior visibilidade dos processos  
 - Coordenação entre operação e gestão  
 
----
-
-## 🏭 Estudo de Caso: Klabin S.A.
-
-A Klabin realiza integração vertical completa:
-
-- Produz sua própria matéria-prima (madeira);  
-- Realiza o processamento industrial;  
-- Fabrica os produtos;  
-- Comercializa e distribui.  
-
-### 📊 Impactos Estratégicos
-
-- Controle total da cadeia produtiva;  
-- Redução de riscos externos;  
-- Melhor coordenação entre produção e gestão;  
-- Tomada de decisão mais rápida e estratégica;  
-- Fortalecimento do posicionamento na cadeia de valor.  
-
-A integração vertical influencia diretamente a estrutura organizacional e o modelo de gestão adotado.
+**Exemplo:**  
+A :contentReference[oaicite:0]{index=0} realiza integração vertical ao controlar desde o plantio de florestas até a produção e comercialização de papel e embalagens.
 
 ---
 
-## 🔄 3. Integração Horizontal
+## 🔗 Integração Horizontal
 
-### 📌 Conceito (Industrial)
-Conecta processos e sistemas no **mesmo nível hierárquico**, como:
+A **Integração Horizontal** ocorre entre empresas ou processos que atuam no mesmo nível da cadeia de valor, geralmente por meio de fusões, aquisições ou alianças estratégicas.
 
-- Produção ↔ Logística  
-- Fornecedores ↔ Clientes  
+### Características principais:
+- Ganho de escala
+- Ampliação de mercado
+- Padronização de processos
+- Redução de custos
+- Fortalecimento da competitividade
+
+### Envolve integração entre:
+- Produção  
+- Logística  
+- Qualidade  
+- Fornecedores  
+- Clientes  
 - Diferentes unidades industriais  
 
-### 📌 Conceito (Empresarial)
-Ocorre por meio de:
-
-- Fusões  
-- Aquisições  
-- Parcerias estratégicas  
-
-Geralmente entre empresas do mesmo nível da cadeia de valor (concorrentes).
-
-### 🎯 Objetivos
-- Ganho de escala  
-- Ampliação de mercado  
-- Redução de custos  
-- Aumento da competitividade  
+**Exemplo:**  
+A estratégia da :contentReference[oaicite:1]{index=1} em combinação com a :contentReference[oaicite:2]{index=2} demonstra integração horizontal ao ampliar mercado, escala produtiva e coordenação entre áreas da cadeia de valor.
 
 ---
 
-## 🥩 Estudo de Caso: Marfrig e BRF
+## 📊 Benefícios da Integração
 
-A combinação entre Marfrig e BRF representa um exemplo de **integração horizontal**.
-
-### 📈 Melhorias Obtidas
-
-- Logística mais eficiente  
-- Aumento da capacidade produtiva  
-- Padronização da qualidade  
-- Fortalecimento da relação com fornecedores  
-- Ampliação da base de clientes  
-
-### 📊 Impactos Estratégicos
-
-- Maior competitividade global;  
-- Redução de custos operacionais;  
-- Melhor coordenação entre processos;  
-- Expansão da participação de mercado;  
-- Melhor posicionamento na cadeia de valor.  
+- Maior eficiência operacional  
+- Redução de redundâncias  
+- Agilidade na resposta ao mercado  
+- Melhoria na qualidade da informação  
+- Melhor tomada de decisão estratégica  
+- Base para transformação digital  
 
 ---
 
-## ⚙️ 4. Benefícios da Integração
+## ⚠️ Desafios
 
-### ✅ Eficiência Operacional
-Otimização de processos e eliminação de redundâncias.
-
-### ✅ Agilidade e Redução de Custos
-Resposta mais rápida ao mercado e diminuição de despesas operacionais.
-
-### ✅ Melhoria na Tomada de Decisão
-Acesso a dados integrados e visão sistêmica da organização.
-
-### ✅ Competitividade Industrial
-Base para transformação digital e adaptação ao mercado dinâmico.
-
----
-
-## ⚠️ 5. Desafios da Integração
-
-### 🔧 Técnicos
 - Compatibilidade entre sistemas  
 - Padronização de dados  
 - Segurança da informação  
-
-### 🏢 Organizacionais
-- Resistência à mudança  
-- Necessidade de colaboração entre áreas  
-- Adaptação cultural  
-
-### 💰 Econômicos
-- Investimentos elevados  
-- Aumento da complexidade operacional  
+- Resistência cultural à mudança  
+- Custos de implementação  
+- Aumento da complexidade organizacional  
 
 ---
 
-## 🧠 6. Integração e Tomada de Decisão Estratégica
+## 🧠 Conclusão
 
-A integração promove:
+A integração, seja vertical ou horizontal, é um fator essencial para a **competitividade industrial**.  
 
-- Fluxo contínuo de informações;  
-- Dados disponíveis em tempo real;  
-- Visão sistêmica da empresa;  
-- Decisões estratégicas mais embasadas;  
-- Melhor alinhamento entre áreas e níveis hierárquicos.  
+A **Integração Vertical** fortalece o controle e a coordenação interna, enquanto a **Integração Horizontal** amplia a escala, a colaboração e o posicionamento estratégico na cadeia de valor.  
 
-Ela conecta operação e estratégia, fortalecendo o planejamento e a governança organizacional.
+Juntas, elas promovem uma visão sistêmica da organização, conectando processos, pessoas e tecnologia.
 
----
-
-## 🎯 Conclusão
-
-A **Integração Vertical** fortalece o controle interno e a eficiência ao longo da cadeia de valor.
-
-A **Integração Horizontal** amplia mercado, escala e competitividade.
-
-Ambas são decisões estratégicas fundamentais que impactam:
-
-- O posicionamento da empresa na cadeia de valor;  
-- A coordenação dos processos;  
-- A qualidade da tomada de decisão;  
-- A competitividade industrial no longo prazo.  
-
-A integração empresarial e industrial é a base para organizações mais conectadas, estratégicas e preparadas para os desafios do mercado atual.
 
